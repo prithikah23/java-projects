@@ -1,12 +1,3 @@
-/* 
- Prithika Hariharan
- 20813370
- 11th February 2020
- Tutorial 5 - Assignment
- Description: The program behaves as a PigLatin Translator
- Input: It takes input in the form of words entered by the user
- Output: It translates the words and outputs it
- */
 
 
 import java.util.Scanner;
