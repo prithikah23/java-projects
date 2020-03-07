@@ -1,15 +1,4 @@
-/*
- Name: Prithika Hariharan
- WatID: 20813370
- Tutorial 6, Assignment
- Description: It has several methods to check if the word has any consonants, 
- if the char is a vowel, and methods to negate and, and or, and alliterations.
- It also has a do while loop in main that helps determine the number of vowels 
- consonants
- Input: The methods take input in the form of parameters
- Output: The output includes the number of vowels and consonants, 
- and if it has all vowels or consonants
- */
+
 import java.util.Scanner;
 
 //declaration of class
