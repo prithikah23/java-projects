@@ -1,13 +1,4 @@
 
-/*
- Prithika Hariharan 
- 20813370
- 4th February 2020
- Assignment 4 - Q3 
- Description: Pattern
- Input: It takes no input
- Output: It creates a pattern 
- */
 public class SlashFigure3 {
 	public static final int CONST = 7;
 
