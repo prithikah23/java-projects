@@ -1,13 +1,4 @@
 
-/*
- Prithika Hariharan 
- 20813370
- 13th February 2020
- Homework 5, Q2
- Description: Finds the even sum and even max from the values entered
- Input: It takes in the number of integers and the values of the integers as the input
- Output: It outputs the even sum and even max
- */
 import java.util.Scanner;
 
 //Declaration of class
