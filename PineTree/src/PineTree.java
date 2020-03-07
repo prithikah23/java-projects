@@ -1,13 +1,4 @@
 
-	/*
-	Name: Prithika Hariharan
-	WatID: 20813370
-	Date: 4th February 2020
-	Tutorial 4, Assignment 
-	Description: The program draws a pine tree
-	Input: It takes the height of the tree as input 
-	Output: It creates a tree with given height
- */
 public class PineTree {
 	public static final String DOLLAR="^ _ ^";
 	public static void main(String[] args) {
